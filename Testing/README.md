@@ -4,8 +4,8 @@ Welcome to the Testing Interview Questions section! Here you'll find a list of c
 
 Feel free to explore the following interview questions:
 
-- [[React Testing Library]]
-- [[Unit Testing]]
+- [React Testing Library](./React%20Testing%20Library.md)
+- [Unit Testing](./Unit%20Testing.md)
 
 ## Contributing
 

@@ -4,11 +4,11 @@ Welcome to the Frontend Interview Questions repository! This repository contains
 
 Feel free to explore the following interview question categories:
 
-- [CSS Interview Questions](frontend_questions/CSS/readme.md)
-- [General Interview Questions](General/readme.md)
-- [JavaScript Interview Questions](JavaScript/readme.md)
-- [React Interview Questions](React/readme.md)
-- [Testing Interview Questions](Testing/readme.md)
+- [CSS Interview Questions](CSS/README.md)
+- [General Interview Questions](General/README.md)
+- [JavaScript Interview Questions](JavaScript/README.md)
+- [React Interview Questions](React/README.md)
+- [Testing Interview Questions](Testing/README.md)
 
 ## Contributing
 

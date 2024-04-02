@@ -4,14 +4,14 @@ Welcome to the JavaScript Interview Questions section! Here you'll find a list o
 
 Feel free to explore the following interview questions:
 
-- [[Bundlers]]
-- [[Code Splitting]]
-- [[JavaScript Generator]]
-- [[Lazy Loading]]
-- [[Linters]]
-- [[Module Systems]]
-- [[Pure Functions]]
-- [[Tree Shaking]]
+- [Bundlers](./Bundlers.md)
+- [Code Splitting](./Code%20Splitting.md)
+- [JavaScript Generator](./JavaScript%20Generator.md)
+- [Lazy Loading](./Lazy%20Loading.md)
+- [Linters](./Linters.md)
+- [Module Systems](./Module%20Systems.md)
+- [Pure Functions](./Pure%20Functions.md)
+- [Tree Shaking](./Tree%20Shaking.md)
 
 ## Contributing
 

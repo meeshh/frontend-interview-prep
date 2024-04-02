@@ -4,9 +4,9 @@ Welcome to the React Interview Questions section! Here you'll find a list of com
 
 Feel free to explore the following interview questions:
 
-- [[Context vs Redux]]
-- [[Prop Drilling]]
-- [[Virtual DOM]]
+- [Context vs Redux](./Context%20vs%20Redux.md)
+- [Prop Drilling](./Prop%20Drilling.md)
+- [Virtual DOM](./Virtual%20DOM.md)
 
 ## Contributing
 

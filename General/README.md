@@ -4,8 +4,8 @@ Welcome to the General Interview Questions section! Here you'll find a list of c
 
 Feel free to explore the following interview questions:
 
-- [[Accessibility]]
-- [[Content Delivery Network (CDN)]]
+- [Accessibility](./Accessibility.md)
+- [Content Delivery Network (CDN)](./Content%20Delivery%20Network%20(CDN).md)
 
 ## Contributing
 

@@ -2,15 +2,10 @@ React Testing Library is a popular testing library for writing tests for React c
 
 Here are some common use cases for React Testing Library:
 
-1. **Unit Testing Components**: React Testing Library is commonly used for [[Unit Testing]] individual React components. Developers can write test cases to verify that components render correctly, handle user interactions, update state as expected, and produce the desired output.
-    
+1. **Unit Testing Components**: React Testing Library is commonly used for [Unit Testing](./Unit%20Testing.md) individual React components. Developers can write test cases to verify that components render correctly, handle user interactions, update state as expected, and produce the desired output.
 2. **Integration Testing**: React Testing Library can also be used for integration testing, where multiple components are tested together to ensure they work correctly when combined. Integration tests verify that components interact with each other as expected, including passing props, triggering events, and updating the DOM accordingly.
-    
 3. **End-to-End Testing**: While React Testing Library is primarily designed for unit and integration testing, it can also be used for end-to-end testing of React applications in conjunction with other tools and frameworks. By simulating user interactions and verifying the resulting changes in the application's UI, developers can ensure that the application behaves correctly from end to end.
-    
 4. **Testing Hooks and Contexts**: React Testing Library supports testing React hooks and contexts, allowing developers to write tests for custom hooks, context providers, and consumers. This includes testing hook behavior, handling side effects, and verifying context interactions.
-    
 5. **Accessibility Testing**: React Testing Library encourages writing tests that focus on the user experience, including accessibility. Developers can use React Testing Library's APIs to write tests that verify the accessibility of components, such as checking for the presence of accessible labels, keyboard navigation, and screen reader support.
-    
 
 Overall, React Testing Library is a versatile testing tool for React applications, providing a simple and intuitive API for writing tests that are easy to read, maintain, and debug. It encourages best practices for testing React components, promotes writing tests that resemble real user interactions, and integrates seamlessly with other testing tools and frameworks in the JavaScript ecosystem.

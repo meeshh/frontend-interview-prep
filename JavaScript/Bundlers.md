@@ -4,7 +4,7 @@ Here's how bundlers typically work:
 
 1. **Dependency Resolution**: Bundlers analyze the dependencies of your project by examining import statements in your code. For example, if your JavaScript code imports other JavaScript files or libraries, the bundler will identify these dependencies.
     
-2. **Code Transformation and Optimization**: Bundlers can perform various transformations and optimizations on your code, such as transpiling newer JavaScript syntax into older versions for wider browser compatibility, minifying code to reduce its size, and [[Tree Shaking]] to eliminate unused code.
+2. **Code Transformation and Optimization**: Bundlers can perform various transformations and optimizations on your code, such as transpiling newer JavaScript syntax into older versions for wider browser compatibility, minifying code to reduce its size, and [Tree Shaking](./Tree%20Shaking.md) to eliminate unused code.
     
 3. **Bundle Generation**: Once the dependencies are resolved and transformations are applied, the bundler creates one or more bundles containing all the necessary code and assets for your application to run.
     
