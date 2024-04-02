@@ -4,7 +4,7 @@ Welcome to the CSS Interview Questions section! Here you'll find a list of commo
 
 Feel free to explore the following interview questions:
 
--[Media Queries (beyond responsiveness)](<./Media%20Queries%20(beyond%20responsiveness).md>)
+- [Media Queries (beyond responsiveness)](<./Media%20Queries%20(beyond%20responsiveness).md>)
 
 ## Contributing
 
