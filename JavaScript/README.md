@@ -8,6 +8,7 @@ Feel free to explore the following interview questions:
 - [Asynchronous Programming](./Asynchronous%20Programming.md)
 - [Bundlers](./Bundlers.md)
 - [Code Splitting](./Code%20Splitting.md)
+- [Interpreted Language](./Interpreted%20Language.md)
 - [JavaScript Generator](./JavaScript%20Generator.md)
 - [Lazy Loading](./Lazy%20Loading.md)
 - [Linters](./Linters.md)
