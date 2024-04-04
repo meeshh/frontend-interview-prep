@@ -7,6 +7,7 @@ Feel free to explore the following interview questions:
 - [ASYNC AWAIT](./ASYNC%20AWAIT.md)
 - [Asynchronous Programming](./Asynchronous%20Programming.md)
 - [Bundlers](./Bundlers.md)
+- [Closures](./Closures.md)
 - [Code Splitting](./Code%20Splitting.md)
 - [Event Loop](./Event%20Loop.md)
 - [Interpreted Language](./Interpreted%20Language.md)
