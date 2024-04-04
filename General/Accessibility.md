@@ -1,4 +1,6 @@
-  Accessibility in web development refers to designing and building websites and web applications that are usable and accessible to people with disabilities. This includes individuals with visual impairments, hearing impairments, mobility impairments, cognitive disabilities, and other disabilities. The goal of web accessibility is to ensure that all users, regardless of their abilities, can perceive, navigate, interact with, and understand web content effectively.
+### What is Accessibility in Web Development?
+
+Accessibility in web development refers to designing and building websites and web applications that are usable and accessible to people with disabilities. This includes individuals with visual impairments, hearing impairments, mobility impairments, cognitive disabilities, and other disabilities. The goal of web accessibility is to ensure that all users, regardless of their abilities, can perceive, navigate, interact with, and understand web content effectively.
 
 Accessibility is essential for several reasons:
 

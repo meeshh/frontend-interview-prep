@@ -1,3 +1,5 @@
+### Context and Redux as Global State Management tools
+
 Context and Redux are both state management solutions commonly used in React applications, but they differ in their approach, usage, and complexity. Here's a comparison between Context and Redux:
 
 1. **Complexity and Learning Curve**:

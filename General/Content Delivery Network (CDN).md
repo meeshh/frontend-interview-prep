@@ -1,3 +1,5 @@
+### What are Content Delivery Networks (or CDNs)
+
 A Content Delivery Network (CDN) is a distributed network of servers strategically located in multiple geographical locations around the world. CDNs are designed to deliver web content, such as HTML pages, JavaScript files, CSS stylesheets, images, videos, and other static assets, to users more efficiently and reliably.
 
 Here's how CDNs typically work:

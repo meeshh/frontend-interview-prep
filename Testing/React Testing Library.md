@@ -1,3 +1,5 @@
+### What is React Testing Library? And why is it needed?
+
 React Testing Library is a popular testing library for writing tests for React components. It's primarily used for testing React applications, including both functional and class components, hooks, and other React-specific features. React Testing Library focuses on testing components in a way that closely resembles how they are used by real users, encouraging developers to write tests that reflect actual user interactions and behavior.
 
 Here are some common use cases for React Testing Library:
