@@ -17,7 +17,7 @@ Feel free to explore the following interview questions:
 - [Lazy Loading](./Lazy%20Loading.md)
 - [Linters](./Linters.md)
 - [Module Systems](./Module%20Systems.md)
-- [Promisees](./Promises.md)
+- [Promises](./Promises.md)
 - [Pure Functions](./Pure%20Functions.md)
 - [Tree Shaking](./Tree%20Shaking.md)
 
