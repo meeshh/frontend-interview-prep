@@ -6,6 +6,7 @@ Feel free to explore the following interview questions:
 
 - [Accessibility](./Accessibility.md)
 - [Content Delivery Network (CDN)](<./Content%20Delivery%20Network%20(CDN).md>)
+- [Micro Frontends](./Micro%20Frontends.md)
 - [SEO](./SEO.md)
 
 ## Contributing
