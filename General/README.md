@@ -4,10 +4,11 @@ Welcome to the General Interview Questions section! Here you'll find a list of c
 
 Feel free to explore the following interview questions:
 
-- [Accessibility](./Accessibility.md)
-- [Content Delivery Network (CDN)](<./Content%20Delivery%20Network%20(CDN).md>)
+- [ally (Accessibility)](./Accessibility.md)
+- [CDN (Content Delivery Network)](<./Content%20Delivery%20Network%20(CDN).md>)
 - [Micro Frontends](./Micro%20Frontends.md)
-- [SEO](./SEO.md)
+- [PWA (Progressive Web App)](./PWA.md)
+- [SEO (Search Engine Optimization)](./SEO.md)
 
 ## Contributing
 
