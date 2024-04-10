@@ -10,6 +10,7 @@ Feel free to explore the following interview questions:
 - [Closures](./Closures.md)
 - [Code Splitting](./Code%20Splitting.md)
 - [Event Loop](./Event%20Loop.md)
+- [Higher Order Functions](./Higher%20order%20functions.md)
 - [Hoisting](./Hoisting.md)
 - [Interpreted Language](./Interpreted%20Language.md)
 - [JavaScript Generator](./JavaScript%20Generator.md)
