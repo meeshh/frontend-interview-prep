@@ -5,6 +5,8 @@ Welcome to the NextJS Interview Questions section! Here you'll find a list of co
 Feel free to explore the following interview questions:
 
 - [What is NextJS](./NextJS.md)
+- [SSR](./SSR.md)
+- [SSG](./SSG.md)
 
 ## Contributing
 
