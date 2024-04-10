@@ -5,6 +5,7 @@ Welcome to the React Interview Questions section! Here you'll find a list of com
 Feel free to explore the following interview questions:
 
 - [Context vs Redux](./Context%20vs%20Redux.md)
+- [(HOC) Higher Order Component](./Higher%20Order%20Component.md)
 - [Prop Drilling](./Prop%20Drilling.md)
 - [Virtual DOM](./Virtual%20DOM.md)
 
